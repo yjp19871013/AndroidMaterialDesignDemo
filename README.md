@@ -1,5 +1,5 @@
-# AndroidMeterialDesignDemo
-Demo of Android Meterial Design. This demo shows the use of followings:
+# AndroidMaterialDesignDemo
+Demo of Android Material Design. This demo shows the use of followings:
 
 1.DrawerLayout
 
